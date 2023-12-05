@@ -1,6 +1,5 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU0YjJtcGQzamdhd3Vvdmd6bmo0eWkxd25kcXg2a203Nm5kOXZ2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9cmBRqOWCF0zK/giphy.gif" align="center" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&vCenter=true&multiline=true&repeat=false&width=1300&height=100&lines=Hi!+My+name+is+Ashuramaru" /> 
-
-
 
 <h2><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=4000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=Something+about+me" /></h2>
 <blockquote>
