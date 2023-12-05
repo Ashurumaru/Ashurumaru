@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=30&duration=4000&repeat=false&color=A7A459&multiline=true&width=800&height=50&lines=Or email me at ashuramarumaru@gmail.com" width="70%" start="false"/> </a>
 </blockquote>
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=4000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=💻+What+I+work+on+in+my+spare+time+⚗️" /></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=4000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=💻+What+I+work+on+in+my+spare+time" /></h2>
 <blockquote><ul>
   <div><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=30&duration=4000&repeat=false&color=A7A459&width=800&height=40&lines=- Improving my programming skills" width="60%" start="false"/></div>
   <div><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=30&duration=4000&repeat=false&color=A7A459&width=800&height=40&lines=- Developing telegram bots" width="60%" start="false"/></div>
