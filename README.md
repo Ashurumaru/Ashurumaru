@@ -26,7 +26,7 @@ https://github.com/Ashurumaru/Ashurumaru/raw/assets/86610969/6742ef58-8fbd-4889-
   <div><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=30&duration=4000&repeat=false&color=A7A459&width=800&height=40&lines=- Studying Data Science" width="60%" start="false"/></div>
   <div><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=30&duration=4000&repeat=false&color=A7A459&width=800&height=40&lines=- A few small projects I have in mind" width="60%" start="false"/></div>
 </ul></blockquote>
-<img src="https://media.giphy.com/media/sf5IyW8Eqf8Mo/giphy.gif" width="70%" align="center" />
+<img src="https://media.giphy.com/media/sf5IyW8Eqf8Mo/giphy.gif" width="100%" height="100%" />
 
 
 <!--
