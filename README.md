@@ -1,20 +1,15 @@
-
-<video
-  controls
-  width="400"
-  height="400"
-  autoplay
-  loop
-  muted
-  poster="poster.png">
-  <source src="rabbit320.mp4" type="video/mp4" />
-  <source src="rabbit320.webm" type="video/webm" />
-  <p>
-    Your browser doesn't support HTML5 video. Here is a
-    <a href="rabbit320.mp4">KrulTepesDance.mp4</a> instead.
-  </p>
+<video width="400" height="400" autoplay loop muted>
+  <source src="https://github.com/Ashurumaru/Ashurumaru/raw/assets/86610969/6742ef58-8fbd-4889-8154-fd5376fc6ca8" type="video/mp4">
+  Ваш браузер не поддерживает тег video.
 </video>
+
+
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&vCenter=true&multiline=true&repeat=false&width=1300&height=100&lines=Hi!+My+name+is+Ashuramaru" /> 
+
+
 
 <h2><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=4000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=Something+about+me" /></h2>
 <blockquote>
