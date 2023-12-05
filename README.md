@@ -15,7 +15,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=300&size=30&duration=4000&repeat=false&color=A7A459&multiline=true&width=800&height=40&lines=telegram" width="60%" start="false"/>
     </a></li>
   </ul>
-  <a href="ashuramarumaru@gmail.com">
+  <a href="mailto:ashuramarumaru@gmail.com">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=30&duration=4000&repeat=false&color=A7A459&multiline=true&width=800&height=50&lines=Or email me at ashuramarumaru@gmail.com" width="70%" start="false"/> </a>
 </blockquote>
 
