@@ -9,10 +9,10 @@
 
   <ul>
     <li><a href="https://discordapp.com/users/572333393384308746">
-      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=300&size=30&duration=6000&repeat=false&color=A7A459&multiline=true&width=800&height=40&lines=discord" width="60%" start="false"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=30&duration=6000&repeat=false&color=A7A459&multiline=true&width=800&height=40&lines=discord" width="60%" start="false"/>
     </a></li>
     <li><a href="https://t.me/ashurumaru">
-      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=300&size=30&duration=6000&repeat=false&color=A7A459&multiline=true&width=800&height=40&lines=telegram" width="60%" start="false"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=30&duration=6000&repeat=false&color=A7A459&multiline=true&width=800&height=40&lines=telegram" width="60%" start="false"/>
     </a></li>
   </ul>
   <a href="mailto:ashuramarumaru@gmail.com">
