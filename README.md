@@ -1,9 +1,9 @@
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=50&duration=6000&pause=300&color=A7A459&vCenter=true&multiline=true&repeat=false&width=1300&height=100&lines=Hi!+My+name+is+Ashuramaru"/>
-<img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/faaa89f2-f1ec-4035-92a7-f5547467304c" align="right" width="100px" height="100px">
-  </div>
-  
+<body>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=50&duration=6000&pause=300&color=A7A459&vCenter=true&multiline=true&repeat=false&width=1300&height=74&lines=Hi!+My+name+is+Ashuramaru"/>
 <h2><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=Something+about+me" /></h2>
+  <div align="center">
+    <img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/faaa89f2-f1ec-4035-92a7-f5547467304c" align="right" width="150px" height="150px">
+      <div align="left">
 <blockquote>
   <p><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&multiline=true&width=800&height=35&lines=🎓 I'm+a+3rd+year+student." width="70%" start="false"/></p>
   <p><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=4000&repeat=false&color=A7A459&multiline=true&width=800&height=35&lines=💬 If+you+have+any+questions,+feel+free+to+contact+me+on+social+media:" width="70%" start="false"/></p>
@@ -15,8 +15,10 @@
       <a href="mailto:ashuramarumaru@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/ashurumaru@gmail.com%20-%23c71610.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </p>
+    </div>
 </blockquote>
-
+  </div>
+  
  <div align="center">
    <img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/e3883127-8535-4e98-8b83-ef2e142888a8" align="center">
   
@@ -31,7 +33,7 @@
  <div align="center">
    <img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="center">
   </div>
-  
+</body>
 <!-- 
 <img src="https://github.com/Ashurumaru/Ashurumaru/raw/assets/86610969/6742ef58-8fbd-4889-8154-fd5376fc6ca8"/> 
 <img src="https://media.giphy.com/media/sf5IyW8Eqf8Mo/giphy.gif" width="100%" height="100%" />
