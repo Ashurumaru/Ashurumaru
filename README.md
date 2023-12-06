@@ -14,8 +14,6 @@
         <img src="https://img.shields.io/badge/ashurumaru%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
       <a href="mailto:ashuramarumaru@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/ashurumarumaru@gmail.com%20-%23c71610.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="mailto:ashuramarumaru@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/ashurumaru@gmail.com%20-%23c71610.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </div>
 </blockquote>
   </div>
