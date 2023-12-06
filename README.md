@@ -1,6 +1,6 @@
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=50&duration=6000&pause=300&color=A7A459&vCenter=true&multiline=true&repeat=false&width=1300&height=100&lines=Hi!+My+name+is+Ashuramaru"/>
-<img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/faaa89f2-f1ec-4035-92a7-f5547467304c" align="right" width="150px" height="150px">
+<img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/faaa89f2-f1ec-4035-92a7-f5547467304c" align="right" width="120px" height="120px">
   </div>
   
 <h2><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=Something+about+me" /></h2>
