@@ -15,23 +15,36 @@
       <a href="mailto:ashuramarumaru@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/ashurumarumaru@gmail.com%20-%23c71610.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </div>
-</blockquote>
-  </div>
-  
+</blockquote></div>
  <div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/e3883127-8535-4e98-8b83-ef2e142888a8" align="center"></div>
   
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=💻+What+I+work+on+in+my+spare+time" /></h2>
-<blockquote><ul>
-  <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&width=800&height=40&lines=- Improving+my+programming+skills" width="60%" start="false"/></div>
-  <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&width=800&height=40&lines=- Developing+telegram+bots" width="60%" start="false"/></div>
-  <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&width=800&height=40&lines=- Studying+Data+Science" width="60%" start="false"/></div>
-  <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&width=800&height=40&lines=- A+few+small+projects+I+have+in+mind" width="60%" start="false"/></div>
-</ul></blockquote>
+<div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="right"> </div>
+<p align="center">
+<blockquote><p>
+<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=- Improving+my+programming+skills" start="false"/></div>
+<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=- Developing+telegram+bots" start="false"/></div>
+<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=- Studying+Data+Science" start="false"/></div>
+<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=- A+few+small+projects+I+have+in+mind" start="false"/></div>
+</p></blockquote>
+  
+  <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=Knowledge" /></h2>
+  <div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="right"> </div>
+<p align="center">
+<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/WPF%20-%231C1C1C.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
- <div align="center">
-   <img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="center">
-  </div>
-  <h2></h2>
+  <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=On+the+horizon" /></h2>
+  <div align="center"> <img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="right"></div>
+  <p align="center">
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+    <!-- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
+    </p>
 </body>
 <!-- 
 <img src="https://github.com/Ashurumaru/Ashurumaru/raw/assets/86610969/6742ef58-8fbd-4889-8154-fd5376fc6ca8"/> 
