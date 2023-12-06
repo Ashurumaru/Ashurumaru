@@ -1,7 +1,7 @@
 <body>
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=50&duration=6000&pause=300&color=A7A459&vCenter=true&multiline=true&repeat=false&width=1300&height=74&lines=Hi!+My+name+is+Ashuramaru"/>
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=Something+about+me" /></h2>
-  <div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/faaa89f2-f1ec-4035-92a7-f5547467304c" align="right" width="150px" height="150px"> </div>
+  <div align="left"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/faaa89f2-f1ec-4035-92a7-f5547467304c" width="150px" height="150px"> </div>
   <div align="left">
 <blockquote>
   <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=30&duration=6000&repeat=false&color=A7A459&multiline=true&width=800&height=40&lines=🎓 I'm+a+3rd+year+student." width="60%" start="false"/></div>
@@ -11,7 +11,8 @@
       <a href="https://discordapp.com/users/572333393384308746" target="_blank"><img src="https://img.shields.io/badge/ashurumaru%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/><br></a>
       <a href="mailto:ashuramarumaru@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ashurumarumaru@gmail.com%20-%23c71610.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </div>
-</blockquote></div>
+</blockquote>
+  </div>
  <div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/e3883127-8535-4e98-8b83-ef2e142888a8" width="550px" height="261px" align="center"></div>
   
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=💻+What+I+work+on+in+my+spare+time" /></h2>
