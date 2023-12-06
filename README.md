@@ -15,7 +15,7 @@
  <div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/e3883127-8535-4e98-8b83-ef2e142888a8" width="550px" height="261px" align="center"></div>
   
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=💻+What+I+work+on+in+my+spare+time" /></h2>
-<div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="right" width="450px" height="250px"> </div>
+<div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="right" width="400px" height="222px"> </div>
 <p align="center">
 <blockquote><p>
 <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=- Improving+my+programming+skills"/></div>
