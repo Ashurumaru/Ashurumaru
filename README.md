@@ -1,4 +1,7 @@
 
+![krulTepesDance](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc)
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=6000&pause=300&color=A7A459&vCenter=true&multiline=true&repeat=false&width=1300&height=100&lines=Hi!+My+name+is+Ashuramaru" /> 
 
 
