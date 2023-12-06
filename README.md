@@ -1,5 +1,7 @@
-<img src="https://github.com/Ashurumaru/Ashurumaru/raw/assets/86610969/6742ef58-8fbd-4889-8154-fd5376fc6ca8"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=6000&pause=300&color=A7A459&vCenter=true&multiline=true&repeat=false&width=1300&height=100&lines=Hi!+My+name+is+Ashuramaru" /> 
+
+
 
 <h2><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=Something+about+me" /></h2>
 <blockquote>
@@ -26,3 +28,5 @@
   <div><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=30&duration=6000&repeat=false&color=A7A459&width=800&height=40&lines=- A+few+small+projects+I+have+in+mind" width="60%" start="false"/></div>
 </ul></blockquote>
 <img src="https://media.giphy.com/media/sf5IyW8Eqf8Mo/giphy.gif" width="100%" height="100%" />
+<!-- <img src="https://github.com/Ashurumaru/Ashurumaru/raw/assets/86610969/6742ef58-8fbd-4889-8154-fd5376fc6ca8"/> -->
+
