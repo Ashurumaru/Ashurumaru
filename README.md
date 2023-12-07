@@ -83,12 +83,13 @@
   <p align="center">
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br><br><br><br><br><br><br>
+    <img src="https://komarev.com/ghpvc/?username=Ashurumaru&color=ff69b4&style=flat-square">
     </p>
 </body>
 
 
-<!-- 
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 <img src="https://github.com/Ashurumaru/Ashurumaru/raw/assets/86610969/6742ef58-8fbd-4889-8154-fd5376fc6ca8"/> 
 <img src="https://media.giphy.com/media/sf5IyW8Eqf8Mo/giphy.gif" width="100%" height="100%" />
 ![![totoro](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/12baa50c-f403-4a10-8375-24f2a6b623a1)
