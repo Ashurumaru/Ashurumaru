@@ -21,10 +21,11 @@
 <div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="right" width="400px" height="222px"> </div>
 <p align="center">
 <blockquote><p>
-<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=- Improving+my+programming+skills"/></div>
-<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=- Developing+telegram+bots"/></div>
-<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=- Studying+Data+Science"/></div>
-<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=- A+few+small+projects+I+have+in+mind"/></div>
+   <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=-+Improving+my+programming+skills"/></div>
+   <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=-+Developing+telegram+bots"/></div>
+   <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=-+Studying+Data+Science"/></div>
+   <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=-+A+few+small+projects+I+have+in+mind"/></div>
+   <div align="left"><img src="https://readme-typing-svg.demolab.com?font=Dhurjati&weight=400&size=20&duration=6000&repeat=false&color=A7A459&width=400&height=40&lines=-+Reading+manga"/></div>
 </p></blockquote>
   
   <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=Knowledge" /></h2>
