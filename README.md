@@ -26,7 +26,8 @@
 </p></blockquote>
   
   <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=Knowledge" /></h2>
-   <!-- <div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="right"> </div>-->
+   <div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/a98b4964-b270-4bf1-a146-07566a5e9202" align="right" width="222px" height="246px"> </div>
+   <div align="center"><img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/4e71c44d-2ac9-4a18-a7cf-486340f7d87c" align="left" width="222px" height="246px"> </div>
 <p align="center">
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
 <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,7 +37,8 @@
 </p>
 
   <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=On+the+horizon" /></h2>
-  <!-- <div align="center"> <img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/68d7422b-b460-416d-91af-198e4863cadc" align="right"></div>-->
+    <div align="center"> <img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/a96e669f-5723-4ba3-8ba0-404b0ec97f2f" align="right" width="222px" height="201px"></div>
+        <div align="center"> <img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/d2431e98-d908-49ac-8fb7-8fb054984c8e" align="left" width="222px" height="201px"></div>
   <p align="center">
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -47,4 +49,14 @@
 <!-- 
 <img src="https://github.com/Ashurumaru/Ashurumaru/raw/assets/86610969/6742ef58-8fbd-4889-8154-fd5376fc6ca8"/> 
 <img src="https://media.giphy.com/media/sf5IyW8Eqf8Mo/giphy.gif" width="100%" height="100%" />
+![![totoro](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/12baa50c-f403-4a10-8375-24f2a6b623a1)
+ghibli](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/a96e669f-5723-4ba3-8ba0-404b0ec97f2f)
+![aniyuki-gojo-satoru](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/3aa9ba77-55a7-4957-9363-25971a83742b)
+![tumblr_3545c87b68c634512f64603d16f41dd7_4e21ffef_540](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/d2431e98-d908-49ac-8fb7-8fb054984c8e)
+![d8aad938f2beea672124ebf1309584c7](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/a98b4964-b270-4bf1-a146-07566a5e9202)
+![5c0b51b7c80771ed729d0da9ad76d099](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/a461756b-98da-4645-a9ed-21860cf9037c)
+![aniyuki-oshi-no-ko-gif-19](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/be320254-9ec9-4c8a-af4c-a528895beec8)
+![d55f4582f07a35d01d0ccac03791072b](https://github.com/Ashurumaru/Ashurumaru/assets/86610969/4e71c44d-2ac9-4a18-a7cf-486340f7d87c)
+
+
 -->
