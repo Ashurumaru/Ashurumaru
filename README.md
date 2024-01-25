@@ -70,6 +70,8 @@
         <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><br>
         <img src="https://img.shields.io/badge/WPF%20-%231C1C1C.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
         <img src="https://img.shields.io/badge/Transact--SQL%20-%23192A2E.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+            <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
     </p>
     <h2 align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=On+the+horizon"/>
@@ -81,7 +83,6 @@
         <img src="https://github.com/Ashurumaru/Ashurumaru/assets/86610969/d2431e98-d908-49ac-8fb7-8fb054984c8e" align="left" width="222px" height="201px">
     </div>
   <p align="center">
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br><br><br><br><br><br><br>
     <img src="https://komarev.com/ghpvc/?username=Ashurumaru&color=ff69b4&style=flat-square">
