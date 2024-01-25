@@ -71,7 +71,6 @@
         <img src="https://img.shields.io/badge/WPF%20-%231C1C1C.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
         <img src="https://img.shields.io/badge/Transact--SQL%20-%23192A2E.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
             <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-
     </p>
     <h2 align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Oceanwide+Primer&weight=500&size=30&duration=6000&repeat=false&color=A7A459&center=true&vCenter=true&width=800&height=70&lines=On+the+horizon"/>
