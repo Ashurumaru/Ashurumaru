@@ -12,10 +12,11 @@
   </h2>
 
   <div align="center" style="margin-bottom: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=18&duration=6000&pause=1000&color=A7A459&vCenter=true&multiline=true&width=1000&height=50&repeat=false&lines=A+4rd+year+student+with+a+passion+for+technology.">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=18&duration=6000&pause=1000&color=A7A459&vCenter=true&multiline=true&width=1000&height=50&repeat=false&lines=Exploring+new+frontiers+in+the+tech+world.">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=18&duration=6000&pause=1000&color=A7A459&vCenter=true&multiline=true&width=1000&height=50&repeat=false&lines=Open+to+collaborations+and+discussions+on+emerging+technologies.">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=18&duration=6000&pause=1000&color=A7A459&vCenter=true&multiline=true&width=1000&height=50&repeat=false&lines=Reach+out+for+inquiries+or+collaborations.">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=18&duration=6000&pause=1000&color=A7A459&vCenter=true&multiline=true&width=1000&height=40&repeat=false&lines=I'm+a+4th-year+student+with+a+keen+interest+in+technology.">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=18&duration=6000&pause=1000&color=A7A459&vCenter=true&multiline=true&width=1000&height=40&repeat=false&lines=I+enjoy+exploring+new+tech+frontiers+and+learning+about+emerging+trends.">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=18&duration=6000&pause=1000&color=A7A459&vCenter=true&multiline=true&width=1000&height=40&repeat=false&lines=In+my+free+time,+I+like+to+work+on+various+projects+and+develop+new+skills.">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=18&duration=6000&pause=1000&color=A7A459&vCenter=true&multiline=true&width=1000&height=40&repeat=false&lines=I'm+always+open+to+collaborations+and+discussions.">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=18&duration=6000&pause=1000&color=A7A459&vCenter=true&multiline=true&width=1000&height=40&repeat=false&lines=Feel+free+to+reach+out+if+you+want+to+connect.">
     <div>
       <a href="https://t.me/ashurumaru" target="_blank">
         <img src="https://img.shields.io/badge/Ashurumaru%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
